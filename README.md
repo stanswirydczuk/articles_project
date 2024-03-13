@@ -1,17 +1,17 @@
 ### Here are the documented screenshots of the finished code running on an XAMPP local server...
 
 Submit article and articles sections
-[![Submit article and articles sections](/screenshots/1.png)]
+![Submit article and articles sections](/screenshots/1.png)
 API Endpoints section
-[![API Endpoints section](/screenshots/2.png)]
+![API Endpoints section](/screenshots/2.png)
 Get article by ID
-[![Get article by ID](/screenshots/3.png)]
+![Get article by ID](/screenshots/3.png)
 Get article by author
-[![Get article by author](/screenshots/4.png)]
+![Get article by author](/screenshots/4.png)
 Top authors last week
-[![Top authors last week](/screenshots/5.png)]
+![Top authors last week](/screenshots/5.png)
 API Endpoints section with filled in input boxes
-[![API Endpoints section with filled in input boxes](/screenshots/6.png)]
+![API Endpoints section with filled in input boxes](/screenshots/6.png)
 
 
 ### In order to recreate this for yourself you need to follow this ordered list of instruction step by step...
